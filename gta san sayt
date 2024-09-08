@@ -15,37 +15,3 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c4/GTASABOX.jpg" alt="https://upload.wikimedia.org/wikipedia/en/c/c4/GTASABOX.jpg">
 <a href="https://drive.google.com/drive/folders/1mMlbLvtuEKZn-aBZ7Qq8FdB3NIipelHg">GTA SAN INDIR</a>
 <a href="https://www.ruhidbaba56.com"></a>
-h1{
-    color: blue;
-}
-body {
-    background-image: url('https://media.gq-magazine.co.uk/photos/645b5c3c8223a5c3801b8b26/16:9/w_1920,c_limit/100-best-games-hp-b.jpg');
-    background-position: center center; 
-}
-h1{font-size: 70px}
-h1{
-    font-family: 'Arial', sans-serif;
-    font-size: 50px;
-    font-weight: bold;
-}
-h1 {
-    display: grid;
-    place-items: center;
-}
-h2{
-    display: grid;
-    place-items: center;
-}
-h2{font-size: 100px}
-body, html {
-    height: 100%;
-    margin: 0;
-    display: grid;
-    place-items: center; 
-    
-}
-
-img {
-    max-width: 100%; 
-    height: auto;
-}
